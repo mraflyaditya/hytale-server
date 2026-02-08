@@ -13,6 +13,11 @@
 
 **Java 25** • **Alpine Linux** • **Multi-Stage Build** • **ZGC** • **Rootless**
 
+**🌍 Language / Langue / Idioma / Sprache**
+
+[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](README.md)
+[![Français](https://img.shields.io/badge/Français-blue?style=for-the-badge)](docs/fr/README.md)
+
 [Quick Start](#-quick-start) •
 [Configuration](#-configuration) •
 [Sécurité](#-sécurité) •
