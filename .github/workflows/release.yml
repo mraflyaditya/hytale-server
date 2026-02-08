@@ -11,7 +11,7 @@ permissions:
   packages: write
 
 env:
-  DOCKERHUB_REPO: tonuser/hytale-server
+  DOCKERHUB_REPO: cyvdev/hytale-server
   GHCR_REPO: ghcr.io/${{ github.repository }}
 
 jobs:
