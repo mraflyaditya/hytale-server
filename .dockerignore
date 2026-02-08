@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+README.md
+CHANGELOG.md
+LICENSE
+docs/
+tests/
+*.md
